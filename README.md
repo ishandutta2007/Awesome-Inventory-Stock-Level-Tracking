@@ -1,56 +1,47 @@
-# Awesome-Inventory-Stock-Level-Tracking
+<div align="center">
 
-## Top Inventory & Order Management Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Inventory &amp; Stock Level Tracking Banner" width="100%" />
 
+# 📦 Awesome Inventory &amp; Stock Level Tracking 🚀
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)](https://github.com/ishandutta2007/Awesome-Inventory-Stock-Level-Tracking)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+**The definitive, production-ready directory of top SaaS platforms and self-hosted open-source software for real-time inventory control, warehouse management (WMS), multi-channel order fulfillment (OMS), barcode/RFID scanning, and supply chain logistics.**
 
-*Focused on Stock Control, Warehouse Management (WMS), Multi-Channel Order Fulfillment, Barcode Scanning & Supply Chain*  
+---
 
-**Last updated: November 2026**
+</div>
 
+## 📑 Table of Contents
 
+- [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Developer Tools & Peripheral Libraries](#️-developer-tools--peripheral-libraries)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Inventory & Order Management**. These tools streamline real-time stock tracking, multi-warehouse fulfillment, purchase order automation, bill of materials (BOM), barcode/QR scanning, and omnichannel e-commerce order syncing.
+---
 
+## 📈 Sector Overview & Market Dynamics
 
+The global inventory management software (IMS) and warehouse management system (WMS) market is currently valued at approximately **$2.7B to $3.7B** and is projected to reach **$5.5B–$7.1B** by 2030, registering a solid Compound Annual Growth Rate (CAGR) of **8.4%–9.5%**. 
 
-**Examples** include Zoho Inventory, Katana Cloud Manufacturing, TradeGecko (QuickBooks Commerce), Fishbowl Inventory, Cin7, Unleashed, inFlow Inventory, ShipBob, Orderhive, and Stitch Labs (the category leaders). 
+Market concentration remains **moderately fragmented**: while massive enterprise ERP giants (such as SAP, Oracle, and Microsoft Dynamics) dominate multinational enterprise supply chains, the small-to-medium enterprise (SME), multi-channel direct-to-consumer (DTC), and mid-market warehousing segments remain highly competitive and fragmented across specialized cloud SaaS and open-source ecosystems rather than consolidating into a single winner-take-all winner.
 
+---
 
+## 🏢 SaaS/Hosted Platforms
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, warehouse management systems (WMS), ERP stock modules, and headless commerce order orchestration — ideal for operations managers, supply chain engineers, e-commerce builders, and developers creating transparent inventory systems.
+A curated comparison of leading commercial and cloud-hosted inventory management, order routing, and 3PL platforms, sorted by **corporate scale / valuation (descending)**:
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global inventory management software market is valued at approximately **$2.7B to $3.7B** (projected to reach **$5.5B–$7.1B** by 2030 at an **8.4%–9.5% CAGR**). The market dynamics exhibit a **moderately fragmented** structure: while mega-enterprise ERPs (SAP, Oracle) capture complex global supply chains, the SME, direct-to-consumer (DTC), and mid-market segments remain highly fragmented across specialized cloud SaaS and open-source platforms rather than operating as a winner-take-all environment.
-
-
-
-## SaaS/Hosted Platforms
-
-| Product | Scale (Revenue / Valuation) | Pricing | Free Tier Limit |
+| 🏷️ Product | 📊 Scale (Revenue / Valuation) | 💵 Pricing | 🎁 Free Tier Limit |
 |---|---|---|---|
 | **[Stitch Labs (Square)](https://squareup.com)** | Parent Block: ~$25.6B Rev / Square: ~$10B+ Rev | Discontinued / Sunsetted after Square acquisition (historic pricing started at $799/month) | No free trial; standalone product retired |
 | **[QuickBooks Commerce (formerly TradeGecko)](https://intuit.com)** | Parent Intuit: ~$21.5B Rev / ~$180B Market Cap | Discontinued / Sunsetted by Intuit (historic pricing started at $99/month) | No free trial; product discontinued (replaced by QuickBooks Online Plus/Advanced) |
@@ -63,180 +54,118 @@ The global inventory management software market is valued at approximately **$2.
 | **[inFlow Inventory](https://inflowinventory.com)** | ~$12.2M Rev (Archon Systems) | $99/month billed annually ($129/mo billed monthly) for Entrepreneur plan | 14-day free trial: Full features enabled, 1,000 orders/yr cap, no credit card required |
 | **[Fishbowl Inventory](https://fishbowlinventory.com)** | ~$10M - $15M Rev | $229/month billed annually for Fishbowl Essentials (includes 2 users) | No self-serve free trial; guided demo available via sales consultation |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Self-hosted, transparent, and extensible open-source projects for inventory control, warehouse management (WMS), ERP stock engines, and order management (OMS). **Sorted by GitHub Stars (descending)**:
 
-
-
-- **[InvenTree](https://github.com)**  
-
-  Modern, open-source inventory management system built with Python/Django providing intuitive parts tracking, bill of materials (BOM), stock locations, and barcode generation.
-
-
-
-- **[ERPNext (Stock & Buying/Selling Modules)](https://github.com)**  
-
-  Flagship open-source ERP suite offering full-featured warehouse management, serialized/batch inventory, automated reorder levels, and omnichannel order processing.
-
-
-
-- **[Odoo Community Edition (Inventory & Sales)](https://github.com)**  
-
+- **[Odoo Community Edition (Inventory & Sales)](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Modular open-source ERP featuring double-entry inventory management, drop-shipping, cross-docking, barcode operations, and automated procurement rules.
 
+- **[ERPNext (Stock & Buying/Selling Modules)](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+  Flagship open-source ERP suite offering full-featured warehouse management, serialized/batch inventory, automated reorder levels, and omnichannel order processing.
 
-
-- **[Part-DB](https://github.com)**  
-
-  Open-source inventory management system built with Symfony and PHP, optimized for tracking electronic components, storage locations, suppliers, and datasheets.
-
-
-
-- **[Grocy](https://github.com)**  
-
-  Self-hosted open-source ERP-style household and small-scale stock management application featuring barcode lookup, expiration tracking, and chore/task automation.
-
-
-
-- **[Snipe-IT](https://github.com)**  
-
-  Industry-standard open-source IT asset and equipment inventory management system supporting barcode/QR labels, check-in/check-out workflows, and audit logs.
-
-
-
-- **[Homebox](https://github.com)**  
-
-  Fast, lightweight open-source inventory and organization system written in Go with QR code labeling, location hierarchies, and maintenance tracking.
-
-
-
-- **[Dolibarr ERP & CRM (Products & Stock)](https://github.com)**  
-
-  All-in-one open-source business suite providing warehouse management, stock movements, purchase orders, shipments, and customer order workflows.
-
-
-
-- **[OpenBoxes](https://github.com)**  
-
-  Open-source supply chain and warehouse management system (WMS) originally built for healthcare logistics, supporting lot/expiry tracking, requisitions, and shipments.
-
-
-
-- **[Medusa](https://github.com)**  
-
+- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   Composable open-source commerce engine featuring multi-warehouse inventory allocation, automated order management (OMS), returns/exchanges, and fulfillment APIs.
 
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+  Open-source Laravel eCommerce platform featuring comprehensive multi-channel warehouse inventory tracking, order workflows, and catalog management.
 
-
-- **[Saleor](https://github.com)**  
-
+- **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   GraphQL-first open-source e-commerce platform offering multi-warehouse stock management, click-and-collect routing, and split-order fulfillment.
 
-
-
-- **[Spree Commerce](https://github.com)**  
-
+- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   Mature open-source modular e-commerce and order management platform with multi-location inventory tracking, supplier dropshipping, and shipping integrations.
 
+- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+  Industry-standard open-source IT asset and equipment inventory management system supporting barcode/QR labels, check-in/check-out workflows, and audit logs.
 
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+  Leading open-source billing and invoicing platform equipped with product inventory control, stock quantity warnings, and payment tracking.
 
-- **[Solidus](https://github.com)**  
+- **[Grocy](https://github.com/grocy/grocy)** [![GitHub stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
+  Self-hosted open-source ERP-style household and small-scale stock management application featuring barcode lookup, expiration tracking, and chore/task automation.
 
+- **[Homebox](https://github.com/sysadminsmedia/homebox)** [![GitHub stars](https://img.shields.io/github/stars/sysadminsmedia/homebox?style=social&color=white)](https://github.com/sysadminsmedia/homebox/stargazers)  
+  Fast, lightweight open-source inventory and organization system written in Go with QR code labeling, location hierarchies, and maintenance tracking.
+
+- **[Dolibarr ERP & CRM (Products & Stock)](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+  All-in-one open-source business suite providing warehouse management, stock movements, purchase orders, shipments, and customer order workflows.
+
+- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+  Modern, open-source inventory management system built with Python/Django providing intuitive parts tracking, bill of materials (BOM), stock locations, and barcode generation.
+
+- **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
   Flexible open-source Ruby on Rails commerce and order management system engineered for complex inventory allocation, returns, and custom fulfillment logic.
 
+- **[Shelf.nu](https://github.com/Shelf-nu/shelf.nu)** [![GitHub stars](https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=social&color=white)](https://github.com/Shelf-nu/shelf.nu/stargazers)  
+  Modern open-source physical asset and inventory tracking platform featuring QR code scanning, custody logs, and location mapping.
 
-
-- **[Apache OFBiz (Warehouse & Order Manager)](https://github.com)**  
-
-  Enterprise open-source business automation framework delivering complete facility/warehouse management, picklists, shipping, and order orchestration.
-
-
-
-- **[iDempiere](https://github.com)**  
-
-  Enterprise-grade open-source ERP/SCM platform supporting multi-warehouse logistics, material requirements planning (MRP), and order-to-cash cycles.
-
-
-
-- **[Metasfresh](https://github.com)**  
-
+- **[Metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
   Open-source ERP designed for SMEs with high-speed order entry, warehouse picking/packing, handling unit management, and EDI support.
 
+- **[Part-DB](https://github.com/Part-DB/Part-DB-symfony)** [![GitHub stars](https://img.shields.io/github/stars/Part-DB/Part-DB-symfony?style=social&color=white)](https://github.com/Part-DB/Part-DB-symfony/stargazers)  
+  Open-source inventory management system built with Symfony and PHP, optimized for tracking electronic components, storage locations, suppliers, and datasheets.
 
+- **[Apache OFBiz (Warehouse & Order Manager)](https://github.com/apache/ofbiz-framework)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+  Enterprise open-source business automation framework delivering complete facility/warehouse management, picklists, shipping, and order orchestration.
 
-- **[Tryton](https://github.com)**  
+- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
+  Open-source supply chain and warehouse management system (WMS) originally built for healthcare logistics, supporting lot/expiry tracking, requisitions, and shipments.
 
-  Three-tier open-source enterprise platform offering modular stock management, lot tracking, drop shipments, and supply chain forecasting.
-
-
-
-- **[FrontAccounting](https://github.com)**  
-
-  Lightweight open-source web ERP featuring multi-location inventory control, bill of materials, purchase orders, and sales order processing.
-
-
-
-- **[Karrio](https://github.com)**  
-
+- **[Karrio](https://github.com/karrioapi/karrio)** [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers)  
   Open-source multi-carrier shipping API and fulfillment platform integrating directly with order management systems for label generation and tracking.
 
+- **[iDempiere](https://github.com/idempiere/idempiere)** [![GitHub stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
+  Enterprise-grade open-source ERP/SCM platform supporting multi-warehouse logistics, material requirements planning (MRP), and order-to-cash cycles.
 
-
-- **[Koel / Shelf.nu](https://github.com)**  
-
-  Modern open-source asset and physical inventory tracking platform featuring QR code scanning, custody logs, and location mapping.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Barcode & QR Code Generation/Scanning Libraries (`ZXing`, `bwip-js`, `html5-qrcode`)](https://github.com)** for adding mobile camera barcode scanning to custom warehouse apps.
-
-- **[Demand Forecasting & Inventory Optimization (`sktime`, `Prophet`, `Stockpyl`)](https://github.com)** for calculating safety stock, EOQ, and multi-echelon reorder points in Python.
-
-- **[EDI & B2B Document Parsers (`Bots EDI`, `pyx12`)](https://github.com)** for automating X12 and EDIFACT purchase orders and advance ship notices (ASNs).
-
-- **[Self-Hosted Label Printing & ZPL Engines (`Labelary / Zebra ZPL tools`)](https://github.com)** for generating thermal shipping and warehouse bin labels.
-
-- Many community **Docker Compose & Helm charts** for deploying **InvenTree**, **ERPNext**, and **Medusa** with automated database backups.
-
-
-
-**Frameworks for building custom systems**: Combine **InvenTree** or **ERPNext** with **Medusa** (for e-commerce OMS), **Karrio** (for shipping/fulfillment), and **Metabase** alongside **html5-qrcode** for a complete, self-hosted Inventory & Order Management suite.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Inventory and order management systems handling e-commerce fulfillment and logistics must comply with tax, customs, and consumer data privacy regulations (GDPR, PCI-DSS).
-
-- Self-hosted open-source warehouse systems require reliable offline-capable barcode workflows, transactional database locking (to prevent overselling), and regular backups.
-
-
+- **[Tryton](https://github.com/tryton/tryton)** [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers)  
+  Modular open-source business management platform offering stock management, lot/serial tracking, dropshipping, and inventory valuation.
 
 ---
+
+## 🛠️ Developer Tools & Peripheral Libraries
+
+- 📱 **Barcode & QR Scanning**: [`ZXing`](https://github.com/zxing/zxing), [`bwip-js`](https://github.com/metafloor/bwip-js), and [`html5-qrcode`](https://github.com/mebjas/html5-qrcode) for integrating camera and industrial scanner inputs into custom warehouse apps.
+- 📊 **Demand Forecasting & Optimization**: [`sktime`](https://github.com/sktime/sktime), [`Prophet`](https://github.com/facebook/prophet), and [`Stockpyl`](https://github.com/tbeasley/stockpyl) for calculating economic order quantity (EOQ), safety stock levels, and lead-time demand in Python.
+- 📑 **EDI & Supply Chain Protocols**: [`Bots EDI`](https://github.com/e-b-s/bots) and [`pyx12`](https://github.com/azoner/pyx12) for parsing and generating ANSI X12 and EDIFACT purchase orders (850) and advance ship notices (ASN 856).
+- 🏷️ **Thermal & Label Printing**: [`Labelary ZPL Engine`](https://github.com) and Zebra ZPL utilities for automated pallet and bin barcode printing.
+- 🐳 **Infrastructure Deployment**: Production Docker Compose configurations and Helm charts for running InvenTree, ERPNext, and Medusa on Kubernetes with automated database volume snapshots.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcome to keep this directory updated and comprehensive! 🌟
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch: `git checkout -b feature/new-inventory-tool`.
+3. 📝 Add or edit entries in `README.md` following the established format:
+   - Must include name, direct link, stars badge (if open-source), and an objective description.
+   - For SaaS products, include pricing tier details and specific free tier/trial limits.
+4. 🚀 Push your changes and open a Pull Request.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated directory helpful for your business, engineering projects, or warehouse operations, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** with colleagues, developers, and logistics teams.
+- ☕ **Buy a coffee / Sponsor the author**: Support continuous open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Inventory-Stock-Level-Tracking&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Inventory-Stock-Level-Tracking&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated index** intended for informational and architectural research purposes. Inclusion does not imply official endorsement or sponsorship.
+- Systems handling sensitive customer purchase orders, e-commerce transactions, and international shipping must comply with local tax, customs, and data privacy regulations (e.g., GDPR, CCPA, PCI-DSS).
+- Self-hosted open-source warehouse systems require reliable offline-capable barcode scanning, transactional database isolation (to prevent inventory race conditions and overselling), and automated disaster recovery backups.
