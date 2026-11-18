@@ -58,69 +58,69 @@ A curated comparison of leading commercial and cloud-hosted inventory management
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted, transparent, and extensible open-source projects for inventory control, warehouse management (WMS), ERP stock engines, and order management (OMS). **Sorted by GitHub Stars (descending)**:
+Self-hosted, transparent, and extensible open-source projects for inventory control, warehouse management (WMS), ERP stock engines, and order management (OMS). **Sorted by GitHub_Stars (descending)**:
 
-- **[Odoo Community Edition (Inventory & Sales)](https://github.com/odoo/odoo)** [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
+- **[Odoo Community Edition (Inventory & Sales)](https://github.com/odoo/odoo)** [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)  
   Modular open-source ERP featuring double-entry inventory management, drop-shipping, cross-docking, barcode operations, and automated procurement rules.
 
-- **[ERPNext (Stock & Buying/Selling Modules)](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
+- **[ERPNext (Stock & Buying/Selling Modules)](https://github.com/frappe/erpnext)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   Flagship open-source ERP suite offering full-featured warehouse management, serialized/batch inventory, automated reorder levels, and omnichannel order processing.
 
-- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
+- **[Medusa](https://github.com/medusajs/medusa)** [![GitHub_Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
   Composable open-source commerce engine featuring multi-warehouse inventory allocation, automated order management (OMS), returns/exchanges, and fulfillment APIs.
 
-- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
+- **[Bagisto](https://github.com/bagisto/bagisto)** [![GitHub_Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers)  
   Open-source Laravel eCommerce platform featuring comprehensive multi-channel warehouse inventory tracking, order workflows, and catalog management.
 
-- **[Saleor](https://github.com/saleor/saleor)** [![GitHub stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
+- **[Saleor](https://github.com/saleor/saleor)** [![GitHub_Stars](https://img.shields.io/github/stars/saleor/saleor?style=social&color=white)](https://github.com/saleor/saleor/stargazers)  
   GraphQL-first open-source e-commerce platform offering multi-warehouse stock management, click-and-collect routing, and split-order fulfillment.
 
-- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
+- **[Spree Commerce](https://github.com/spree/spree)** [![GitHub_Stars](https://img.shields.io/github/stars/spree/spree?style=social&color=white)](https://github.com/spree/spree/stargazers)  
   Mature open-source modular e-commerce and order management platform with multi-location inventory tracking, supplier dropshipping, and shipping integrations.
 
-- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
   Industry-standard open-source IT asset and equipment inventory management system supporting barcode/QR labels, check-in/check-out workflows, and audit logs.
 
-- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
+- **[Invoice Ninja](https://github.com/invoiceninja/invoiceninja)** [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)  
   Leading open-source billing and invoicing platform equipped with product inventory control, stock quantity warnings, and payment tracking.
 
-- **[Grocy](https://github.com/grocy/grocy)** [![GitHub stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
+- **[Grocy](https://github.com/grocy/grocy)** [![GitHub_Stars](https://img.shields.io/github/stars/grocy/grocy?style=social&color=white)](https://github.com/grocy/grocy/stargazers)  
   Self-hosted open-source ERP-style household and small-scale stock management application featuring barcode lookup, expiration tracking, and chore/task automation.
 
-- **[Homebox](https://github.com/sysadminsmedia/homebox)** [![GitHub stars](https://img.shields.io/github/stars/sysadminsmedia/homebox?style=social&color=white)](https://github.com/sysadminsmedia/homebox/stargazers)  
+- **[Homebox](https://github.com/sysadminsmedia/homebox)** [![GitHub_Stars](https://img.shields.io/github/stars/sysadminsmedia/homebox?style=social&color=white)](https://github.com/sysadminsmedia/homebox/stargazers)  
   Fast, lightweight open-source inventory and organization system written in Go with QR code labeling, location hierarchies, and maintenance tracking.
 
-- **[Dolibarr ERP & CRM (Products & Stock)](https://github.com/Dolibarr/dolibarr)** [![GitHub stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
+- **[Dolibarr ERP & CRM (Products & Stock)](https://github.com/Dolibarr/dolibarr)** [![GitHub_Stars](https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white)](https://github.com/Dolibarr/dolibarr/stargazers)  
   All-in-one open-source business suite providing warehouse management, stock movements, purchase orders, shipments, and customer order workflows.
 
-- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
+- **[InvenTree](https://github.com/inventree/InvenTree)** [![GitHub_Stars](https://img.shields.io/github/stars/inventree/InvenTree?style=social&color=white)](https://github.com/inventree/InvenTree/stargazers)  
   Modern, open-source inventory management system built with Python/Django providing intuitive parts tracking, bill of materials (BOM), stock locations, and barcode generation.
 
-- **[Solidus](https://github.com/solidusio/solidus)** [![GitHub stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
+- **[Solidus](https://github.com/solidusio/solidus)** [![GitHub_Stars](https://img.shields.io/github/stars/solidusio/solidus?style=social&color=white)](https://github.com/solidusio/solidus/stargazers)  
   Flexible open-source Ruby on Rails commerce and order management system engineered for complex inventory allocation, returns, and custom fulfillment logic.
 
-- **[Shelf.nu](https://github.com/Shelf-nu/shelf.nu)** [![GitHub stars](https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=social&color=white)](https://github.com/Shelf-nu/shelf.nu/stargazers)  
+- **[Shelf.nu](https://github.com/Shelf-nu/shelf.nu)** [![GitHub_Stars](https://img.shields.io/github/stars/Shelf-nu/shelf.nu?style=social&color=white)](https://github.com/Shelf-nu/shelf.nu/stargazers)  
   Modern open-source physical asset and inventory tracking platform featuring QR code scanning, custody logs, and location mapping.
 
-- **[Metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
+- **[Metasfresh](https://github.com/metasfresh/metasfresh)** [![GitHub_Stars](https://img.shields.io/github/stars/metasfresh/metasfresh?style=social&color=white)](https://github.com/metasfresh/metasfresh/stargazers)  
   Open-source ERP designed for SMEs with high-speed order entry, warehouse picking/packing, handling unit management, and EDI support.
 
-- **[Part-DB](https://github.com/Part-DB/Part-DB-symfony)** [![GitHub stars](https://img.shields.io/github/stars/Part-DB/Part-DB-symfony?style=social&color=white)](https://github.com/Part-DB/Part-DB-symfony/stargazers)  
+- **[Part-DB](https://github.com/Part-DB/Part-DB-symfony)** [![GitHub_Stars](https://img.shields.io/github/stars/Part-DB/Part-DB-symfony?style=social&color=white)](https://github.com/Part-DB/Part-DB-symfony/stargazers)  
   Open-source inventory management system built with Symfony and PHP, optimized for tracking electronic components, storage locations, suppliers, and datasheets.
 
-- **[Apache OFBiz (Warehouse & Order Manager)](https://github.com/apache/ofbiz-framework)** [![GitHub stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
+- **[Apache OFBiz (Warehouse & Order Manager)](https://github.com/apache/ofbiz-framework)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ofbiz-framework?style=social&color=white)](https://github.com/apache/ofbiz-framework/stargazers)  
   Enterprise open-source business automation framework delivering complete facility/warehouse management, picklists, shipping, and order orchestration.
 
-- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
+- **[OpenBoxes](https://github.com/openboxes/openboxes)** [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)  
   Open-source supply chain and warehouse management system (WMS) originally built for healthcare logistics, supporting lot/expiry tracking, requisitions, and shipments.
 
-- **[Karrio](https://github.com/karrioapi/karrio)** [![GitHub stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers)  
+- **[Karrio](https://github.com/karrioapi/karrio)** [![GitHub_Stars](https://img.shields.io/github/stars/karrioapi/karrio?style=social&color=white)](https://github.com/karrioapi/karrio/stargazers)  
   Open-source multi-carrier shipping API and fulfillment platform integrating directly with order management systems for label generation and tracking.
 
-- **[iDempiere](https://github.com/idempiere/idempiere)** [![GitHub stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
+- **[iDempiere](https://github.com/idempiere/idempiere)** [![GitHub_Stars](https://img.shields.io/github/stars/idempiere/idempiere?style=social&color=white)](https://github.com/idempiere/idempiere/stargazers)  
   Enterprise-grade open-source ERP/SCM platform supporting multi-warehouse logistics, material requirements planning (MRP), and order-to-cash cycles.
 
-- **[Tryton](https://github.com/tryton/tryton)** [![GitHub stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers)  
+- **[Tryton](https://github.com/tryton/tryton)** [![GitHub_Stars](https://img.shields.io/github/stars/tryton/tryton?style=social&color=white)](https://github.com/tryton/tryton/stargazers)  
   Modular open-source business management platform offering stock management, lot/serial tracking, dropshipping, and inventory valuation.
 
 ---
@@ -142,7 +142,7 @@ Contributions are warmly welcome to keep this directory updated and comprehensiv
 1. 🍴 Fork the repository.
 2. 🌿 Create a new branch: `git checkout -b feature/new-inventory-tool`.
 3. 📝 Add or edit entries in `README.md` following the established format:
-   - Must include name, direct link, stars badge (if open-source), and an objective description.
+   - Must include name, direct link, Stars_Badge (if open-source), and an objective description.
    - For SaaS products, include pricing tier details and specific free tier/trial limits.
 4. 🚀 Push your changes and open a Pull Request.
 
