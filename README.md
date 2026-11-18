@@ -42,18 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-| Product | Pricing | Free Tier Limit |
-|---|---|---|
-| **[Zoho Inventory](https://zoho.com)** | $29/month billed annually ($39/mo billed monthly) for Standard plan | Free forever plan: 50 orders/month, 1 user, 1 warehouse location |
-| **[Katana Cloud Manufacturing](https://katanamrp.com)** | Custom-scoped annual Advantage contract (legacy plans started at $179/month) | Free forever plan: 30 SKUs max, unlimited users, up to 3 locations (15-day initial grace period with unlimited SKUs) |
-| **[Cin7 Core](https://cin7.com)** | $349/month billed annually for Standard plan | 14-day free trial: Full feature access, no credit card required |
-| **[Unleashed (The Access Group)](https://unleashedsoftware.com)** | $399/month billed annually for Starter/Core plan | 14-day free trial: Full access to core inventory modules, no credit card required |
-| **[Fishbowl Inventory](https://fishbowlinventory.com)** | $229/month billed annually for Fishbowl Essentials (includes 2 users) | No self-serve free trial; guided demo available via sales consultation |
-| **[inFlow Inventory](https://inflowinventory.com)** | $99/month billed annually ($129/mo billed monthly) for Entrepreneur plan | 14-day free trial: Full features enabled, 1,000 orders/yr cap, no credit card required |
-| **[ShipBob](https://shipbob.com)** | ~$275/month baseline platform/spend commitment (fulfillment charged per order + storage from $5/bin, $10/shelf, $40/pallet) | No free trial; interactive platform demo and custom shipping cost analysis available |
-| **[Cin7 Orderhive](https://cin7.com/products/orderhive/)** | $44.99/month for Starter plan | 15-day free trial: Full automation and multi-channel order syncing, no credit card required |
-| **[QuickBooks Commerce (formerly TradeGecko)](https://intuit.com)** | Discontinued / Sunsetted by Intuit (historic pricing started at $99/month) | No free trial; product discontinued (replaced by QuickBooks Online Plus/Advanced) |
-| **[Stitch Labs (Square)](https://squareup.com)** | Discontinued / Sunsetted after Square acquisition (historic pricing started at $799/month) | No free trial; standalone product retired |
+| Product | Scale (Revenue / Valuation) | Pricing | Free Tier Limit |
+|---|---|---|---|
+| **[Stitch Labs (Square)](https://squareup.com)** | Parent Block: ~$25.6B Rev / Square: ~$10B+ Rev | Discontinued / Sunsetted after Square acquisition (historic pricing started at $799/month) | No free trial; standalone product retired |
+| **[QuickBooks Commerce (formerly TradeGecko)](https://intuit.com)** | Parent Intuit: ~$21.5B Rev / ~$180B Market Cap | Discontinued / Sunsetted by Intuit (historic pricing started at $99/month) | No free trial; product discontinued (replaced by QuickBooks Online Plus/Advanced) |
+| **[ShipBob](https://shipbob.com)** | ~$1.3B - $2.0B Valuation (~$500M ARR) | ~$275/month baseline platform/spend commitment (fulfillment charged per order + storage from $5/bin, $10/shelf, $40/pallet) | No free trial; interactive platform demo and custom shipping cost analysis available |
+| **[Zoho Inventory](https://zoho.com)** | ~$1.45B Rev (Zoho Corporation) | $29/month billed annually ($39/mo billed monthly) for Standard plan | Free forever plan: 50 orders/month, 1 user, 1 warehouse location |
+| **[Unleashed (The Access Group)](https://unleashedsoftware.com)** | ~$1.4B Rev (The Access Group) / ~$11B Valuation | $399/month billed annually for Starter/Core plan | 14-day free trial: Full access to core inventory modules, no credit card required |
+| **[Katana Cloud Manufacturing](https://katanamrp.com)** | ~$150M - $250M Valuation (~$10M+ ARR) | Custom-scoped annual Advantage contract (legacy plans started at $179/month) | Free forever plan: 30 SKUs max, unlimited users, up to 3 locations (15-day initial grace period with unlimited SKUs) |
+| **[Cin7 Core](https://cin7.com)** | ~$35M - $40M Rev | $349/month billed annually for Standard plan | 14-day free trial: Full feature access, no credit card required |
+| **[Cin7 Orderhive](https://cin7.com/products/orderhive/)** | Cin7 Subsid.: ~$35M - $40M Rev | $44.99/month for Starter plan | 15-day free trial: Full automation and multi-channel order syncing, no credit card required |
+| **[inFlow Inventory](https://inflowinventory.com)** | ~$12.2M Rev (Archon Systems) | $99/month billed annually ($129/mo billed monthly) for Entrepreneur plan | 14-day free trial: Full features enabled, 1,000 orders/yr cap, no credit card required |
+| **[Fishbowl Inventory](https://fishbowlinventory.com)** | ~$10M - $15M Rev | $229/month billed annually for Fishbowl Essentials (includes 2 users) | No self-serve free trial; guided demo available via sales consultation |
 
 
 
