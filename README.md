@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Zoho Inventory](https://zoho.com)**  
-
-  Cloud-based inventory control and order management software offering multi-warehouse tracking, serial/batch management, barcode scanning, and marketplace integrations.
-
-
-
-- **[Katana Cloud Manufacturing](https://katanamrp.com)**  
-
-  Live inventory and manufacturing ERP platform tailored for product-based businesses needing real-time material tracking, shop-floor control, and order fulfillment.
-
-
-
-- **[Cin7](https://cin7.com)**  
-
-  Connected inventory management and POS platform automating stock synchronization, EDI workflows, and order routing across retail, wholesale, and 3PL channels.
-
-
-
-- **[Unleashed (The Access Group)](https://unleashedsoftware.com)**  
-
-  Cloud inventory management system delivering real-time stock visibility, batch/expiry tracking, bill of materials, and landed-cost calculations.
-
-
-
-- **[Fishbowl Inventory](https://fishbowlinventory.com)**  
-
-  Comprehensive warehouse and manufacturing inventory solution providing barcode scanning, pick-pack-ship workflows, and tight accounting synchronization.
-
-
-
-- **[inFlow Inventory](https://inflowinventory.com)**  
-
-  End-to-end inventory and order management system featuring built-in barcoding, B2B showroom portals, and multi-location stock routing.
-
-
-
-- **[ShipBob](https://shipbob.com)**  
-
-  Tech-enabled global 3PL and fulfillment platform providing distributed inventory placement, real-time order tracking, and warehouse management software.
-
-
-
-- **[QuickBooks Commerce (formerly TradeGecko)](https://intuit.com)**  
-
-  Multichannel inventory and order management suite integrated into the QuickBooks ecosystem for B2B wholesale, stock control, and accounting.
-
-
-
-- **[Cin7 Orderhive](https://cin7.comproducts/orderhive/)**  
-
-  Automated order, shipping, and inventory management tool designed for online retailers selling across Shopify, Amazon, eBay, and WooCommerce.
-
-
-
-- **[Stitch Labs (Square)](https://squareup.com)**  
-
-  Operations and inventory control platform built to centralize multi-channel retail stock levels, supplier purchase orders, and fulfillment analytics.
+| Product | Pricing | Free Tier Limit |
+|---|---|---|
+| **[Zoho Inventory](https://zoho.com)** | $29/month billed annually ($39/mo billed monthly) for Standard plan | Free forever plan: 50 orders/month, 1 user, 1 warehouse location |
+| **[Katana Cloud Manufacturing](https://katanamrp.com)** | Custom-scoped annual Advantage contract (legacy plans started at $179/month) | Free forever plan: 30 SKUs max, unlimited users, up to 3 locations (15-day initial grace period with unlimited SKUs) |
+| **[Cin7 Core](https://cin7.com)** | $349/month billed annually for Standard plan | 14-day free trial: Full feature access, no credit card required |
+| **[Unleashed (The Access Group)](https://unleashedsoftware.com)** | $399/month billed annually for Starter/Core plan | 14-day free trial: Full access to core inventory modules, no credit card required |
+| **[Fishbowl Inventory](https://fishbowlinventory.com)** | $229/month billed annually for Fishbowl Essentials (includes 2 users) | No self-serve free trial; guided demo available via sales consultation |
+| **[inFlow Inventory](https://inflowinventory.com)** | $99/month billed annually ($129/mo billed monthly) for Entrepreneur plan | 14-day free trial: Full features enabled, 1,000 orders/yr cap, no credit card required |
+| **[ShipBob](https://shipbob.com)** | ~$275/month baseline platform/spend commitment (fulfillment charged per order + storage from $5/bin, $10/shelf, $40/pallet) | No free trial; interactive platform demo and custom shipping cost analysis available |
+| **[Cin7 Orderhive](https://cin7.com/products/orderhive/)** | $44.99/month for Starter plan | 15-day free trial: Full automation and multi-channel order syncing, no credit card required |
+| **[QuickBooks Commerce (formerly TradeGecko)](https://intuit.com)** | Discontinued / Sunsetted by Intuit (historic pricing started at $99/month) | No free trial; product discontinued (replaced by QuickBooks Online Plus/Advanced) |
+| **[Stitch Labs (Square)](https://squareup.com)** | Discontinued / Sunsetted after Square acquisition (historic pricing started at $799/month) | No free trial; standalone product retired |
 
 
 
