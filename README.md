@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -37,6 +39,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global inventory management software market is valued at approximately **$2.7B to $3.7B** (projected to reach **$5.5B–$7.1B** by 2030 at an **8.4%–9.5% CAGR**). The market dynamics exhibit a **moderately fragmented** structure: while mega-enterprise ERPs (SAP, Oracle) capture complex global supply chains, the SME, direct-to-consumer (DTC), and mid-market segments remain highly fragmented across specialized cloud SaaS and open-source platforms rather than operating as a winner-take-all environment.
 
 
 
